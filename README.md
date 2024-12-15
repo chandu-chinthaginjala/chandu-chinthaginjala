@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=icon&logoColor=white)][me-portfolio]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][me-Linkedin]
-[![Profile Views](https://komarev.com/ghpvc/?username=nayanbunny&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=icon&logoColor=white)][me-github]
+[![Profile Views](https://komarev.com/ghpvc/?username=chandu-chinthaginjala&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=icon&logoColor=white)][me-github]
 
 </div>
 
@@ -49,7 +49,7 @@
 </div>
 
 [me-portfolio]: https://chanduchinthaginjala.github.io/portfolio/
-[me-Linkedin]: linkedin.com/in/chanduchinthaginjala/
+[me-Linkedin]: https://www.linkedin.com/in/chanduchinthaginjala/
 [me-visualstudio-marketplace]: https://marketplace.visualstudio.com/publishers/nayan/
 [me-github]: https://github.com/chandu-chinthaginjala
 [sas]: https://www.sas.com/
